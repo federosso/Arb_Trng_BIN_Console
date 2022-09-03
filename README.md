@@ -1,4 +1,4 @@
-# Cryptocurrency Triangular Arbitrage on Binance
+# Cryptocurrency Triangular Arbitrage on Binance Exchange
 ##  Complete and automatic trading system for triangular arbitrage for all cryptocurrencies
 
 This project is written in PHP and works through the Windows and Linux console.
