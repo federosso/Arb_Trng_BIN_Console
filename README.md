@@ -290,7 +290,7 @@ ___
 If you like my project and you want to support me, offer me a pizza ![pizza](/images/pizza.png)     
 
 
-![Metamask](/images/Metamask-logo-small.png) BTC: `0xCCfDDB92329d8F38e048B14683d24737Fd40aA42`
+![Metamask](/images/Metamask-logo-small.png) Metamask: `0xCCfDDB92329d8F38e048B14683d24737Fd40aA42`
 
 
 ___
