@@ -287,18 +287,10 @@ ___
 
 <br>
 
-If you like my project and you want to support me, offer me a pizza ![ccxt](/images/pizza.png)     
+If you like my project and you want to support me, offer me a pizza ![pizza](/images/pizza.png)     
 
 
-![btc](/images/BTC.png) BTC: `19GcXwDcKDkqSpCDLEjeZTAcCu1WK8CZyg`
-
-![eth](/images/ETH.png) ETH: `0xf75e8e810fc746386155bce442581c9157aecd30`    
-
-![btt](/images/BTT.png) BTT: `TBBPEU3J6o37W28oBr4nrhS5mK3bkBqRsE`
-
-![xrp](/images/XRP.png) XRP: `rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh` TAG: `100375876`
-
-![btt](/images/Paypal_logo.png) Paypal: https://paypal.me/pools/c/8yJs88y7Uk
+![Metamask](/images/Metamask-logo-small.png) BTC: `0xCCfDDB92329d8F38e048B14683d24737Fd40aA42`
 
 
 ___
